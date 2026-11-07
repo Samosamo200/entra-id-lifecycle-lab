@@ -1,0 +1,4 @@
+# Local secrets and exports
+*.csv
+.env
+*.log

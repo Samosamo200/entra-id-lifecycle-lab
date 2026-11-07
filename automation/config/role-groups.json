@@ -1,0 +1,8 @@
+{
+  "Lagertekniker": { "Department": "Operations", "Group": "SG-Ops-Technician" },
+  "Driftsleder": { "Department": "Operations", "Group": "SG-Ops-Manager" },
+  "Administrasjonskonsulent": { "Department": "Administration", "Group": "SG-Admin-Staff" },
+  "Regnskapsfører": { "Department": "Finance", "Group": "SG-Finance" },
+  "IT-konsulent": { "Department": "IT", "Group": "SG-IT-HelpDesk" },
+  "Sikkerhetsanalytiker": { "Department": "IT", "Group": "SG-IT-Security" }
+}
